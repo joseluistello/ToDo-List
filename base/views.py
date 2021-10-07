@@ -36,6 +36,11 @@ class RegisterPage(FormView):
             login(self.request, user)
         return super(RegisterPage, self).form_valid(form)
 
+    def get(self, *args, **kwargs):
+        if self.request.user.is_authenticated:
+            return redirect('tasks')
+        return super(RegisterPage, self).get(*args, **kwargs)
+
 
 ### List
 
