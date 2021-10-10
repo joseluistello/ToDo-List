@@ -68,7 +68,7 @@ A small web application to manage your tasks
    ```
 
 
-## 4. Inspirations
+## 4. Inspiration
 
 [kamil Grzybek](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
