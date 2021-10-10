@@ -57,3 +57,9 @@ A small web application to manage your tasks
 ## 4. Inspirations
 
 [kamil Grzybek](https://github.com/kgrzybek/modular-monolith-with-ddd)
+
+
+<!-- CONTACT -->
+## Contact
+
+José Luis Tello - [@jotaele_tello](https://twitter.com/jotaele_tello) - joluistello@gmail.com
