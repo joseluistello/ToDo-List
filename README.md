@@ -6,8 +6,8 @@ A small web application to manage your tasks
 
 ## Contenido
 
-1. Domain
-2. Arquitectura
+[1. Domain](#1-Domain)
+2. Architecture
 3. How to run
 4. Inspiration
 
