@@ -13,6 +13,7 @@ A small web application to manage your tasks
 2. Architecture
 
 [3. How to run](#3-How-to-run)
+
 &nbsp;&nbsp;[3.1 How to run](#31-installation)
 
 6. Inspiration
