@@ -10,13 +10,13 @@ A small web application to manage your tasks
 
 &nbsp;&nbsp;[1.1 Description](#11-description)
 
-2. Architecture
+[2. Architecture](#2-Architecture)
 
 [3. How to run](#3-How-to-run)
 
 &nbsp;&nbsp;[3.1 Installation](#31-installation)
 
-6. Inspiration
+[4. Inspiration](#4-inspiration)
 
 ## 1. Domain
 
