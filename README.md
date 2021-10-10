@@ -6,11 +6,15 @@ A small web application to manage your tasks
 
 ## Contenido
 
-[1. Domain](#1-Domain)
+- [1. Domain](#1-Domain)
+- 
 &nbsp;&nbsp;[1.1 Description](#11-description)
+
 2. Architecture
-3. How to run
-4. Inspiration
+
+4. How to run
+
+6. Inspiration
 
 ## 1. Domain
 
