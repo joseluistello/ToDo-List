@@ -16,7 +16,7 @@ A small web application to manage your tasks
 
 [2. Architecture](#2-Architecture)
 
-&nbsp;&nbsp;[2.1 C4 Model](#21-C4-model)
+&nbsp;&nbsp;[2.1 C4 Model](#20-C4-model)
 
 [3. How to run](#3-How-to-run)
 
@@ -67,7 +67,7 @@ Note: Event Storming is a light, live workshop. One of the possible outputs of t
 
 ## 2. Architecture
 
-### 2.1 C4 Model
+### 2.0 C4 Model
 
 [C4 model](https://c4model.com/) is a lean graphical notation technique for modelling the architecture of software systems. <br>
 
