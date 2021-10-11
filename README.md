@@ -10,11 +10,13 @@ A small web application to manage your tasks
 
 &nbsp;&nbsp;[1.1 Description](#11-description)
 
-&nbsp;&nbsp;[1.2 CRC Model](#11-description)
+&nbsp;&nbsp;[1.2 CRC Model](#12-CRC-Model)
 
-&nbsp;&nbsp;[1.3 Event Storming](#11-description)
+&nbsp;&nbsp;[1.3 Event Storming](#13-Event-Storming)
 
 [2. Architecture](#2-Architecture)
+
+&nbsp;&nbsp;[2.1 C4 Model](#21-C4-model)
 
 [3. How to run](#3-How-to-run)
 
@@ -64,6 +66,14 @@ Note: Event Storming is a light, live workshop. One of the possible outputs of t
 **User Registration and Task Management process**
 
 ## 2. Architecture
+
+### 2.1 C4 Model
+
+[C4 model](https://c4model.com/) is a lean graphical notation technique for modelling the architecture of software systems. <br>
+
+As can be found on the website of the author of this model ([Simon Brown](https://simonbrown.je/)): *The C4 model was created as a way to help software development teams describe and communicate software architecture, both during up-front design sessions and when retrospectively documenting an existing codebase* <br>
+
+*Model C4* defines 4 levels (views) of the system architecture: *System Context*, *Container*, *Component* and *Code*. Below are examples of each of these levels that describe the architecture of this system. <br>
 
 ## 3. How to run
 
