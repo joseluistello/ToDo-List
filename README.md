@@ -59,7 +59,7 @@ A `user` can have multiple `tasks`.
 
 > CRD Model - A CRD model is a collection of cards that represent whole or part of an application or problem domain. It's a model that I have created to represent responsibilities and dependencies of a classes in small projects. This model can be used for projects with object oriented programming or functional programming.
 
-![dependency](https://user-images.githubusercontent.com/65988061/136733184-da8b4c69-fa2f-4b82-8d9b-ebc3e50c8649.png)
+![dependency](https://user-images.githubusercontent.com/65988061/136733401-464f2119-bb6c-450c-afc8-22f1f0a19c95.png)
 
 
 ### 1.3 Event Storming
