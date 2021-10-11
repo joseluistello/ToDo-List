@@ -79,6 +79,8 @@ As can be found on the website of the author of this model ([Simon Brown](https:
 
 ### 2.1 System Container Context C1-C2
 
+![diagram](https://user-images.githubusercontent.com/65988061/136727370-8d2ad1f9-ad6b-4afe-94ac-c4258dd66540.png)
+
 ## 3. How to run
 
 ### 3.1 Installation
