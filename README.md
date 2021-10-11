@@ -10,6 +10,10 @@ A small web application to manage your tasks
 
 &nbsp;&nbsp;[1.1 Description](#11-description)
 
+&nbsp;&nbsp;[1.2 CRC Model](#11-description)
+
+&nbsp;&nbsp;[1.3 Event Storming](#11-description)
+
 [2. Architecture](#2-Architecture)
 
 [3. How to run](#3-How-to-run)
@@ -44,6 +48,20 @@ A `task` can be deleted by a `user`.
 A `task` can be updated by a `user`.
 
 A `user` can have multiple `tasks`.
+
+### 1.2 CRC Model
+
+**Definition:**
+
+> CRC Model - A CRC model is a collection of CRC cards that represent whole or part of an application or problem domain. The most common use for CRC models, the one that this white paper addresses, is to gather and define the user requirements for an object-oriented application. [CRC Modeling: Bridging the Communication Gap Between Developers and Users](http://www.uml.org.cn/umlapplication/pdf/crcmodeling.pdf)
+
+### 1.3 Event Storming
+
+There are many ways to show behavior and events. One of them is a light technique called [Event Storming](https://www.eventstorming.com/) which is becoming more popular. Below are presented 2 main business processes using this technique: user registration and tasks.
+
+Note: Event Storming is a light, live workshop. One of the possible outputs of this workshop is presented here. Even if you are not doing Event Storming workshops, this type of process presentation can be very valuable to you and your stakeholders.
+
+**User Registration and Task Management process**
 
 ## 2. Architecture
 
