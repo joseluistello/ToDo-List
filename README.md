@@ -16,7 +16,9 @@ A small web application to manage your tasks
 
 [2. Architecture](#2-Architecture)
 
-&nbsp;&nbsp;[2.1 C4 Model](#20-C4-model)
+&nbsp;&nbsp;[2.0 C4 Model](#20-C4-model)
+
+&nbsp;&nbsp;[2.1 System Container Context C1-C2](#21-System-container-context-c1-c2)
 
 [3. How to run](#3-How-to-run)
 
@@ -73,7 +75,9 @@ Note: Event Storming is a light, live workshop. One of the possible outputs of t
 
 As can be found on the website of the author of this model ([Simon Brown](https://simonbrown.je/)): *The C4 model was created as a way to help software development teams describe and communicate software architecture, both during up-front design sessions and when retrospectively documenting an existing codebase* <br>
 
-*Model C4* defines 4 levels (views) of the system architecture: *System Context*, *Container*, *Component* and *Code*. Below are examples of each of these levels that describe the architecture of this system. <br>
+*Model C4* defines 4 levels (views) of the system architecture: *System Context*, *Container*, *Component* and *Code*. Below are examples of each of these levels that describe the architecture of this system. **In this example I will use a hybrid of system context (C1) and container (C2) for the simplicity of the application.** <br>
+
+### 2.1 System Container Context C1-C2
 
 ## 3. How to run
 
