@@ -35,9 +35,15 @@ A small web application to manage your tasks
 
 **Tasks and users**
 
-The main project entitie are `tasks` and `users`. A `task` can be created by a `user`.
+The main project entitie are `tasks` and `users`. A person becomes a `user` by registering.
 
-A `task` can be deleted by a user.
+A `task` can be created by a `user`.
+
+A `task` can be deleted by a `user`.
+
+A `task` can be updated by a `user`.
+
+A `user` can have multiple `task`'s
 
 ## 2. Architecture
 
