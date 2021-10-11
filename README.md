@@ -33,6 +33,10 @@ A small web application to manage your tasks
 - It's a simple project with which I can learn a little more about Django.
 - This project can help people to manage their day to day life.
 
+**Tasks**
+
+The main project entitie are 'tasks'
+
 ## 2. Architecture
 
 ## 3. How to run
