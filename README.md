@@ -67,6 +67,11 @@ Note: Event Storming is a light, live workshop. One of the possible outputs of t
 
 **User Registration and Task Management process**
 
+------
+
+![flow](https://user-images.githubusercontent.com/65988061/136731759-72ad429f-3322-4404-a046-eec27e5ededf.png)
+
+
 ## 2. Architecture
 
 ### 2.0 C4 Model
