@@ -10,7 +10,7 @@ A small web application to manage your tasks
 
 &nbsp;&nbsp;[1.1 Description](#11-description)
 
-&nbsp;&nbsp;[1.2 CRC Model](#12-CRC-Model)
+&nbsp;&nbsp;[1.2 CRD Model](#12-CRD-Model)
 
 &nbsp;&nbsp;[1.3 Event Storming](#13-Event-Storming)
 
@@ -53,11 +53,14 @@ A `task` can be updated by a `user`.
 
 A `user` can have multiple `tasks`.
 
-### 1.2 CRC Model
+### 1.2 CRD Model
 
 **Definition:**
 
-> CRC Model - A CRC model is a collection of CRC cards that represent whole or part of an application or problem domain. The most common use for CRC models, the one that this white paper addresses, is to gather and define the user requirements for an object-oriented application. [CRC Modeling: Bridging the Communication Gap Between Developers and Users](http://www.uml.org.cn/umlapplication/pdf/crcmodeling.pdf)
+> CRD Model - A CRD model is a collection of cards that represent whole or part of an application or problem domain. It's a model that I have created to represent responsibilities and dependencies of a classes in small projects. This model can be used for projects with object oriented programming or functional programming.
+
+![dependency](https://user-images.githubusercontent.com/65988061/136733184-da8b4c69-fa2f-4b82-8d9b-ebc3e50c8649.png)
+
 
 ### 1.3 Event Storming
 
