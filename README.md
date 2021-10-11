@@ -33,9 +33,11 @@ A small web application to manage your tasks
 - It's a simple project with which I can learn a little more about Django.
 - This project can help people to manage their day to day life.
 
-**Tasks**
+**Tasks and users**
 
-The main project entitie are 'tasks'
+The main project entitie are `tasks` and `users`. A `task` can be created by a `user`.
+
+A `task` can be deleted by a user.
 
 ## 2. Architecture
 
