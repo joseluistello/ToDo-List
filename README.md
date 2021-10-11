@@ -43,7 +43,7 @@ A `task` can be deleted by a `user`.
 
 A `task` can be updated by a `user`.
 
-A `user` can have multiple `task`'s
+A `user` can have multiple `tasks`.
 
 ## 2. Architecture
 
